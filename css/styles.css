@@ -1,0 +1,43 @@
+body {
+  min-height: 100%;
+}
+
+header {
+  background-color: blueviolet;
+  min-height: 10vh;
+  width: 101%;
+}
+
+.navbar {
+  min-height: 91.5vh;
+  background-color: darkgrey;
+  width: 15%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+}
+
+.nav-link {
+  padding: 2rem;
+}
+
+main {
+  display: flex;
+  position: absolute;
+  min-height: 90vh;
+  left: 37.5vh;
+  top: 97px;
+}
+
+main img {
+  height: 98.6vh;
+  width: 101.5%;
+}
+
+footer {
+background-color: blueviolet;
+height: 10vh;
+width: 101%;
+}
+  
